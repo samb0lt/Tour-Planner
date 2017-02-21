@@ -1,0 +1,6 @@
+---
+applications:
+- name: Tour Planner
+  memory: 256M
+  buildpack: https://github.com/heroku/heroku-buildpack-nodejs
+  timeout: 60
