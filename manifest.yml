@@ -2,5 +2,5 @@
 applications:
 - name: Tour Planner
   memory: 256M
-  buildpack: https://github.com/plone/heroku-buildpack-plone/blob/master/bootstrap.py
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack
   timeout: 60
