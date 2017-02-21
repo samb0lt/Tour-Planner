@@ -1,0 +1,7 @@
+---
+applications:
+- name: Tour Planner
+  memory: 256M
+  buildpack: https://github.com/samb0lt/Tour-Planner.git
+  domain: tourplanner.com
+  timeout: 60
