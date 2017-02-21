@@ -2,5 +2,5 @@
 applications:
 - name: Tour Planner
   memory: 256M
-  buildpack: https://github.com/heroku/heroku-buildpack-nodejs
+  buildpack: https://github.com/cloudfoundry/staticfile-buildpack
   timeout: 60
